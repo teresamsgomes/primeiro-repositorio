@@ -1,2 +1,2 @@
 # primeiro-repositorio
-o meu primeiro repositorio
+o primeiro repositorio de Teresa Gomes
